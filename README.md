@@ -1,4 +1,4 @@
-# CLS_GIZ3_DAT2_G3-Tean-4
+# CLS_GIZ3_DAT2_G3-Team-4
 The final Project 
 Team Information
  This repository contains our final project.
